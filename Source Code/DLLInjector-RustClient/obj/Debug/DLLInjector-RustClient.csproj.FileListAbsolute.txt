@@ -1,0 +1,10 @@
+C:\Users\VirusTest\source\repos\DLLInjector-RustClient\DLLInjector-RustClient\bin\Debug\DLLInjector-RustClient.exe.config
+C:\Users\VirusTest\source\repos\DLLInjector-RustClient\DLLInjector-RustClient\bin\Debug\DLLInjector-RustClient.exe
+C:\Users\VirusTest\source\repos\DLLInjector-RustClient\DLLInjector-RustClient\bin\Debug\DLLInjector-RustClient.pdb
+C:\Users\VirusTest\source\repos\DLLInjector-RustClient\DLLInjector-RustClient\bin\Debug\Memory.dll
+C:\Users\VirusTest\source\repos\DLLInjector-RustClient\DLLInjector-RustClient\bin\Debug\Memory.xml
+C:\Users\VirusTest\source\repos\DLLInjector-RustClient\DLLInjector-RustClient\obj\Debug\DLLInjector-RustClient.csproj.AssemblyReference.cache
+C:\Users\VirusTest\source\repos\DLLInjector-RustClient\DLLInjector-RustClient\obj\Debug\DLLInjector-RustClient.csproj.CoreCompileInputs.cache
+C:\Users\VirusTest\source\repos\DLLInjector-RustClient\DLLInjector-RustClient\obj\Debug\DLLInjector-RustClient.csproj.CopyComplete
+C:\Users\VirusTest\source\repos\DLLInjector-RustClient\DLLInjector-RustClient\obj\Debug\DLLInjector-RustClient.exe
+C:\Users\VirusTest\source\repos\DLLInjector-RustClient\DLLInjector-RustClient\obj\Debug\DLLInjector-RustClient.pdb
